@@ -10,8 +10,8 @@ import pandas as pd
 from PyQt5.QtCore import QTimer
 from UIForApp import Ui_Form
 
-#----------------------OYGULAMA OLUŞTURMA----------------------#
-#----------------------OYGULAMA OLUŞTURMA----------------------#
+#----------------------UYGULAMA OLUŞTURMA----------------------#
+#----------------------UYGULAMA OLUŞTURMA----------------------#
 Uygulama = QtWidgets.QApplication(sys.argv)
 penAna = QMainWindow()
 ui = Ui_Form()
